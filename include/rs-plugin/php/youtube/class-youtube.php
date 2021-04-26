@@ -3,7 +3,7 @@
 /**
  * Youtube
  *
- * with help of the API this class delivers all kind of Images/Videos from youtube
+ * with help of the API this class delivers all kind of https://s3.us-east-2.amazonaws.com/static.iexetec/img-perfil-maestros/Videos from youtube
  *
  * @package    socialstreams
  * @subpackage socialstreams/youtube

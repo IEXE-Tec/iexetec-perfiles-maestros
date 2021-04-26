@@ -105,7 +105,8 @@
   left: 50%;
   width: 24px;
   height: 24px;
-  background: url('..images/preloader-dark.gif') center center no-repeat;
+  background: url('..https://s3.us-east-2.amazonaws.com/static.iexetec/img-perfil-maestros/preloader-dark.gif')
+    center center no-repeat;
   text-align: center;
   margin-top: -12px;
   margin-left: -12px;
