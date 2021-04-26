@@ -21,14 +21,15 @@
     line-height: 50px;
     margin: 18px 0;
     padding: 0;
-    color: #fff;
+    color: #004965;
     font-size: 20px;
     letter-spacing: 0;
     text-align: center;
     border-radius: 50%;
     background-color: #f9f9f9;
-    color: #333;
-    box-shadow: 0 7px 14px rgba(0, 0, 0, 0.13), 0 5px 5px rgba(0, 0, 0, 0.08);
+    color: #004965;
+    box-shadow: 0 7px 14px rgba(168, 168, 168, 0.13),
+      0 5px 5px rgba(168, 168, 168, 0.08);
     transition: all 0.3s ease;
   }
 
@@ -39,8 +40,8 @@
     font-size: 13px;
     font-weight: bold;
     letter-spacing: 1px;
-    color: #fff;
-    font-family: 'Source Sans Pro', sans-serif;
+    color: #004965;
+    font-family: 'Raleway', sans-serif;
     text-transform: uppercase;
     -webkit-transition-delay: 0.35s;
     transition-delay: 0.35s;
@@ -53,7 +54,8 @@
     -o-transition: all 400ms cubic-bezier(0.2, 1, 0.3, 1);
     transition: all 400ms cubic-bezier(0.2, 1, 0.3, 1);
     -webkit-backface-visibility: hidden;
-    text-shadow: 0 0px 7px rgba(0, 0, 0, 0.4), 0 0px 7px rgba(0, 0, 0, 0.2);
+    text-shadow: 0 0px 7px rgba(168, 168, 168, 0.4),
+      0 0px 7px rgba(168, 168, 168, 0.2);
   }
 
   .menu-container > .menu-item > .menu-link:hover div {
